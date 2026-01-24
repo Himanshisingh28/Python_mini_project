@@ -1,10 +1,10 @@
-# 📌 Guess the number game
+## Guess the number game
 
 A simple Python mini project built to understand core Python concepts and improve problem-solving skills.
 
 ---
 
-## 🚀 Features
+##  Features
 - Easy to use
 - Beginner friendly
 - Written in Python
@@ -12,8 +12,10 @@ A simple Python mini project built to understand core Python concepts and improv
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python 3.x
 
----
+## Author
+--Himanshee
+
 
