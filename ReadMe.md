@@ -2,20 +2,18 @@
 
 A simple Python mini project built to understand core Python concepts and improve problem-solving skills.
 
----
 
 ##  Features
 - Easy to use
 - Beginner friendly
 - Written in Python
 - Covers basic logic and concepts
-
----
+  
 
 ##  Technologies Used
 - Python 3.x
 
 ## Author
---Himanshee
+--Himanshee kumari
 
 
