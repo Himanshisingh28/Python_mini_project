@@ -11,7 +11,7 @@ A simple Python mini project built to understand core Python concepts and improv
   
 
 ##  Technologies Used
-- Python 3.x
+- Python
 
 ## Author
 --Himanshee kumari
