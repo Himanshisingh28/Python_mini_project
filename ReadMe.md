@@ -1,35 +1,58 @@
-# Guess the Number Game 
+Guess the Number Game
 
-A simple Python command-line game where the computer randomly selects a number and the user tries to guess it within the correct range.
----
-##  Project Description
+A simple and fun Python command-line game where the computer randomly selects a number and the player tries to guess it within a given range.
 
-The **Guess the Number** game is a beginner-friendly Python project that helps understand:
-- Random number generation
-- User input handling
-- Loops and conditional statements
+📌 Project Description
 
-The program continues until the user guesses the correct number.
----
-##  Technologies Used
-- Python 3
-- `random` module
----
-##  How the Game Works
+The Guess the Number Game is a beginner-friendly Python project designed to strengthen core programming concepts.
 
-1. The program generates a random number between a fixed range (e.g., 1 to 100).
-2. The user enters a guess.
-3. The program gives hints:
-   - **Too High**
-   - **Too Low**
-4. The game continues until the correct number is guessed.
-5. Total number of attempts is displayed.
-6. you have a greate experience
----
-##  How to Run the Program
+It helps you understand:
 
-1. Make sure Python is installed:
-   ```bash
-   python --version
-## Author
-- Himanshee
+🎲 Random number generation
+⌨️ User input handling
+🔁 Loops and conditions
+🧠 Basic game logic
+
+The game continues until the user correctly guesses the number.
+
+🛠️ Technologies Used
+Python 3
+Built-in random module
+🎮 How the Game Works
+The computer generates a random number within a range (e.g., 1 to 100).
+The player enters a guess.
+The program provides hints:
+📉 Too Low
+📈 Too High
+The process repeats until the correct number is guessed.
+At the end, the total number of attempts is displayed.
+▶️ How to Run the Program
+
+Make sure Python is installed:
+
+python --version
+
+Clone this repository:
+
+git clone <your-repo-link>
+
+Navigate to the project folder:
+
+cd guess-the-number
+
+Run the program:
+
+python game.py
+✨ Features
+Interactive command-line interface
+Unlimited attempts until correct guess
+Hint system for better gameplay
+Tracks number of attempts
+🚀 Future Improvements
+Add difficulty levels (Easy, Medium, Hard)
+Limit number of attempts
+Add score system
+GUI version using Tkinter
+👩‍💻 Author
+
+Himanshee
